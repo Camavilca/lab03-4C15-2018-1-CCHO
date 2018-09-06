@@ -1,3 +1,3 @@
-public clas operacion(){
+public class Operacion{
 
 }
